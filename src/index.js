@@ -1,1 +1,1 @@
-module.exports = require('./Tooltip');
+module.exports = require('./TabPop');
